@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KOB Band]]></title>
         <description><![CDATA[KOB Band]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kob-band/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:26:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 23:36:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kob-band/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are the band for YOUR event!</p>]]></description>
-            <link>undefined35aa57ce-af2a-4e89-a29e-3ddaafb1bc48/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8816c24d-1763-4b68-aad6-6870dd15e827.jpg">]]></description>
+            <link>https://thegrid.ai/kob-band/35aa57ce-af2a-4e89-a29e-3ddaafb1bc48/index.html</link>
             <guid isPermaLink="false">35aa57ce-af2a-4e89-a29e-3ddaafb1bc48</guid>
-            <pubDate>Mon, 28 Mar 2016 23:26:09 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 23:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
